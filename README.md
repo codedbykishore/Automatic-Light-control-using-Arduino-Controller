@@ -92,6 +92,11 @@ void loop()
 ## CIRCUIT DIAGRAM:
 ![314926891-48c45103-ba1e-42cc-867e-47a64c5440d6](https://github.com/codedbykishore/Automatic-Light-control-using-Arduino-Controller/assets/147139122/a21926db-a800-4e58-811d-70c72161b718)
 
+
+<br>
+<br>
+<br>
+
 ## OUTPUT:
 ![314927236-2ac94a54-6498-4167-a1f1-0735751c996c](https://github.com/codedbykishore/Automatic-Light-control-using-Arduino-Controller/assets/147139122/81af6780-d750-4d57-aad4-47a4d3635444)
 
